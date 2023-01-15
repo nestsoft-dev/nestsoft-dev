@@ -25,13 +25,15 @@
 
 <p align="left">
 
-<a href="https://stackoverflow.com/users/obetta ikenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="obetta ikenna" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15601730/obetta-ikenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="obetta ikenna" height="30" width="40" /></a>
 
 <a href="https://fb.com/cj collins michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cj collins michael" height="30" width="40" /></a>
 
 <a href="https://instagram.com/ikenna_collins_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikenna_collins_dev" height="30" width="40" /></a>
 
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -41,5 +43,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netsoft-dev&show_icons=true&locale=en" alt="netsoft-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netsoft-dev&" alt="netsoft-dev" /></p>
+### :fire: My Stats :
+<p><img align="center" https://github-readme-streak-stats.herokuapp.com/?user=nestsoft-dev /></p>
+
+<p> "https://github-readme-stats.vercel.app/api/top-langs/?username=nestsoft-dev&layout=compact&theme=vision-friendly-dark" </p>
 
