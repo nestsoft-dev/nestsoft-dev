@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nestsoft-dev&show_icons=true&locale=en&layout=compact" alt="nestsoft-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nestsoft-dev&" alt="nestsoft-dev" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=nestsoft-dev&amp;theme=dark&amp;background=000000)](https://git.io/streak-stats" alt="nestsoft-dev" /></p>
