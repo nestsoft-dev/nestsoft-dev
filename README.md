@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Obetta Ikenna</h1>
+<h1 align="center">Hi 👋, I'm Obetta collins Ikenna</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nestsoft-dev" alt="nestsoft-dev" /></a> </p>
