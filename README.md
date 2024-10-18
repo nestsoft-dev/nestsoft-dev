@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nestsoft-dev" alt="nestsoft-dev" /></a> </p>
 
-- 🔭 I’m currently working on [Vtu App in flutter](https://github.com/nestsoft-dev/VTU-admin-panel)
+- 🔭 I’m currently working on A lot of side personal projects
 
-- 🌱 I’m currently learning **PHP,Javascript,React**
+- 🌱 I’m currently Working with **NODEJS AND EXPRESS JS,FLUTTER AND DART**
 
 - 👯 I’m looking to collaborate on [VTU in flutter](https://github.com/nestsoft-dev/Vtu-in-flutter)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nestsoft-dev](https://github.com/nestsoft-dev)
 
-- 📫 How to reach me **Obettaikenna19@gmail.com**
+- 📫 How to reach me **Obettaikenna19@gmail.com** or **+2349138473122**
 
 - 📄 Know about my experiences [https://github.com/nestsoft-dev](https://github.com/nestsoft-dev)
 
